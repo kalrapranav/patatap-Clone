@@ -1,6 +1,6 @@
 # Patatap Clone
-Following is the clone of patatap website created using javascript and and paper.js library.  
-The wweb app responds to with diffrent animation and sounds according to the keys pressed by the user. 
+Following is the clone of [patatap](https://patatap.com/) website created using javascript and and paper.js library.  
+The web app responds to with different animation and sounds according to the keys pressed by the user. 
 
 ## Interface of the Web app
 ![7](https://user-images.githubusercontent.com/19777060/57614803-fae88a80-752e-11e9-9d19-a21ba048a5d6.jpg)![12](https://user-images.githubusercontent.com/19777060/57614721-c248b100-752e-11e9-85ea-23d4a65bbe19.png)
